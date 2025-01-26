@@ -1,2 +1,2 @@
 # NebulaX currently operates with klipper
-## Nebula Slicer will be released at a later date. 
+## NebulaX runs on a custom Orca Slicer profile, to be released at a later date
